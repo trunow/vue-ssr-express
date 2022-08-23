@@ -1,8 +1,8 @@
-# vue-compo
+# Vue SSR Example on Express
 
 ## Project setup
 ```
-npm install
+npm i
 ```
 
 ### Compiles and hot-reloads for development
